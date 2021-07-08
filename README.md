@@ -1,4 +1,4 @@
-# Castle-Checkmates
+# Castlemates
 A Python script which scrapes pgn files for Chess checkmates from castling. This project was largely inspired by Chess International Master [Eric Rosen](https://twitter.com/im_rosen?lang=en) and the [Chessfactory Hall Of Fame](https://github.com/mark-dev/chessfactory-hall-of-fame) by Mark-Dev.
 
 ## Technolgoies
@@ -17,7 +17,7 @@ Games are found using the Lichess Python API [bezerk](https://github.com/rhgrant
 | 2021 April | -             | -                       |
 | 2021 May   | -             | -                       |
 
-## Results
+## Highest Rated Games
 
 | #  | White ELO | Black ELO | Game Reference |   
 |:---|:----------|:----------|:---------------|
