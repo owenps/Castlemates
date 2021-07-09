@@ -4,7 +4,7 @@
 A Python script which scrapes pgn files for chess games ending in a checkmates from castling. This project was largely inspired by International Chess Master [Eric Rosen](https://twitter.com/im_rosen?lang=en) and the [Chessfactory Hall Of Fame](https://github.com/mark-dev/chessfactory-hall-of-fame) by Mark-Dev.
 
 ## Data
-Games are parsed using the [python chess](https://python-chess.readthedocs.io/en/latest/) library. My findings scanned over XX million games on the [Lichess game database](https://database.lichess.org/). 
+Games are parsed using the [python chess](https://python-chess.readthedocs.io/en/latest/) library. My findings scanned over 17 million games on the [Lichess game database](https://database.lichess.org/). 
 
 | Date         | # of Games    | Size of Data | # of Castle Checkmates  |
 |:-------------|:--------------|:-------------|:------------------------|
