@@ -4,11 +4,10 @@ A Python script which scrapes pgn files for Chess checkmates from castling. This
 ## Technolgoies
 
 ![Python Badge](https://img.shields.io/badge/Python-007396?style=for-the-badge&labelColor=black&logo=Python&logoColor=white) 
-![Bezerk Badge](https://img.shields.io/badge/Bezerk-red?style=for-the-badge&labelColor=black&logo=Lichess&logoColor=white)
 
 
 ## Data
-Games are found using the Lichess Python API [bezerk](https://github.com/rhgrant10/berserk). My findings scanned over XX million games on the [Lichess database](https://database.lichess.org/). 
+Games are parsed using the [python chess](https://python-chess.readthedocs.io/en/latest/) library. My findings scanned over XX million games on the [Lichess database](https://database.lichess.org/). 
 
 | Date       | # of Games    | # of Castle Checkmates  |
 |:-----------|:--------------|:------------------------|
@@ -48,7 +47,15 @@ Games are found using the Lichess Python API [bezerk](https://github.com/rhgrant
 | 25 | -         | -         | -              |
 
 ## Executing The Script Yourself
-Be sure [bezerk](https://berserk.readthedocs.io/en/master/installation.html) is intalled then execute the following command. 
+You can install [python-chess](https://python-chess.readthedocs.io/en/latest/) using the following command. 
 ```
-
+pip install chess
+```
+Then to execute the script itself, you will need to an associated pgn file (E.g. `example.pgn `) which will be passed in as a command line argument. 
+```
+python castlemates.py example.pgn
+```
+Optionally, you can set a minimum Elo parameter to only output games where both players are above a certain Elo ranking.
+```
+python castlemates.py example.pgn 2000
 ```
