@@ -6,9 +6,9 @@ A Python script which scrapes pgn files for chess games ending in a checkmates f
 ## Data
 Games are parsed using the [python chess](https://python-chess.readthedocs.io/en/latest/) library. My findings scanned over 17 million games on the [Lichess game database](https://database.lichess.org/). 
 
-| Date         | # of Games    | Size of Data | # of Castle Checkmates  |
-|:-------------|:--------------|:-------------|:------------------------|
-| 2018 January | 17,945,784    | 38.27 GB     | -                       |
+| Date         | Games       | Size         | Castle Checkmates  |
+|:-------------|:------------|:-------------|:-------------------|
+| 2018 January | 17,945,784  | 38.27 GB     | -                  |
 
 ## Highest Rated Games
 
@@ -53,4 +53,4 @@ Optionally, you can set a minimum Elo parameter to only output games where both 
 ```
 python castlemates.py example.pgn 2000
 ```
-This parameter is default to `0`.
+This parameter by default is `0`.
