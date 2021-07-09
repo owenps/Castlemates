@@ -38,7 +38,7 @@ for game in castlemates:
     if (wElo != '?' or bElo != '?'):
         if (min(int(wElo),int(bElo)) > min_elo):
             print('White Elo: '+wElo+' | Black Elo: '+bElo+' | URL: '+game.headers['Site'])
-    else if (min_elo == 0): # show all games
+    elif (min_elo == 0): # show all games
         print('White Elo: '+wElo+' | Black Elo: '+bElo+' | URL: '+game.headers['Site'])
 print('In total there were '+str(len(castlemates))+' game(s) which ended in a castle-mate')
     
