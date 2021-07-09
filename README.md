@@ -1,5 +1,5 @@
 # Castlemates
-A Python script which scrapes pgn files for Chess checkmates from castling. This project was largely inspired by Chess International Master [Eric Rosen](https://twitter.com/im_rosen?lang=en) and the [Chessfactory Hall Of Fame](https://github.com/mark-dev/chessfactory-hall-of-fame) by Mark-Dev.
+A Python script which scrapes pgn files for chess games ending in a checkmates from castling. This project was largely inspired by Chess International Master [Eric Rosen](https://twitter.com/im_rosen?lang=en) and the [Chessfactory Hall Of Fame](https://github.com/mark-dev/chessfactory-hall-of-fame) by Mark-Dev.
 
 ## Technolgoies
 
@@ -7,7 +7,7 @@ A Python script which scrapes pgn files for Chess checkmates from castling. This
 
 
 ## Data
-Games are parsed using the [python chess](https://python-chess.readthedocs.io/en/latest/) library. My findings scanned over XX million games on the [Lichess database](https://database.lichess.org/). 
+Games are parsed using the [python chess](https://python-chess.readthedocs.io/en/latest/) library. My findings scanned over XX million games on the [Lichess game database](https://database.lichess.org/). 
 
 | Date       | # of Games    | # of Castle Checkmates  |
 |:-----------|:--------------|:------------------------|
@@ -51,7 +51,7 @@ You can install [python-chess](https://python-chess.readthedocs.io/en/latest/) u
 ```
 pip install chess
 ```
-Then to execute the script itself, you will need to an associated pgn file (E.g. `example.pgn `) which will be passed in as a command line argument. 
+Then to execute the script itself, you will need to an associated pgn file (E.g. `example.pgn`) which will be passed in as a command line argument. 
 ```
 python castlemates.py example.pgn
 ```
@@ -59,4 +59,4 @@ Optionally, you can set a minimum Elo parameter to only output games where both 
 ```
 python castlemates.py example.pgn 2000
 ```
-This parameter is default to 0.
+This parameter is default to `0`.
