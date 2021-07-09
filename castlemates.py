@@ -34,7 +34,12 @@ while game is not None:
 
 # Print results
 for game in castlemates:
-    print('White Elo: '+game.headers['WhiteElo']+' | Black Elo: '+game.headers['BlackElo']+' | URL: '+game.headers['Site'])
+    wElo, bElo = game.headers['WhiteElo'], game.headers['BlackElo']
+    if (wElo != '?' or bElo != '?'):
+        if (min(int(wElo),int(bElo)) > min_elo):
+            print('White Elo: '+wElo+' | Black Elo: '+bElo+' | URL: '+game.headers['Site'])
+    else if (min_elo == 0): # show all games
+        print('White Elo: '+wElo+' | Black Elo: '+bElo+' | URL: '+game.headers['Site'])
 print('In total there were '+str(len(castlemates))+' game(s) which ended in a castle-mate')
     
 

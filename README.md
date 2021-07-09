@@ -59,3 +59,4 @@ Optionally, you can set a minimum Elo parameter to only output games where both 
 ```
 python castlemates.py example.pgn 2000
 ```
+This parameter is default to 0.
