@@ -14,16 +14,16 @@ Games are parsed using the [python chess](https://python-chess.readthedocs.io/en
 
 ## Highest Rated Games
 
-| #  | White ELO | Black ELO | Game Reference URL |   
-|:---|:----------|:----------|:-------------------|
-| 1  | -         | -         | -                  |
-| 2  | -         | -         | -                  |
-| 3  | -         | -         | -                  |
-| 4  | -         | -         | -                  |
-| 5  | -         | -         | -                  |
-| 6  | -         | -         | -                  |
-| 7  | -         | -         | -                  |
-| 8  | -         | -         | -                  |
+| #  | White ELO | Black ELO | Game Reference URL           |   
+|:---|:----------|:----------|:-----------------------------|
+| 1  | 2390      | 2224      | https://lichess.org/TJJxBOME | <!-- 4614 -->
+| 2  | 2292      | 2171      | https://lichess.org/yg4Wy7hg | <!-- 4463 -->
+| 3  | 2310      | 2022      | https://lichess.org/rv8qttCj | <!-- 4332 -->
+| 4  | 2103      | 2158      | https://lichess.org/nu3USCaC | <!-- 4261 -->
+| 5  | 2087      | 2143      | https://lichess.org/CW7va6EJ | <!-- 4230 -->
+| 6  | 2014      | 2184      | https://lichess.org/t4wLU7Jz | <!-- 4198 -->
+| 7  | 2071      | 2022      | https://lichess.org/IUD2Dc5k | <!-- 4093 -->
+| 8  | 1998      | 2029      | https://lichess.org/eBOkhMgh | <!-- 4027 -->
 | 9  | -         | -         | -                  |
 | 10 | -         | -         | -                  |
 | 11 | -         | -         | -                  |
