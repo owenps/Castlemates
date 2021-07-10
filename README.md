@@ -3,6 +3,8 @@
 
 Castlemates is a python script which scrapes .pgn files for chess games ending in a checkmates from castling. This project was largely inspired by International Chess Master [Eric Rosen](https://twitter.com/im_rosen?lang=en) and the [Chessfactory Hall Of Fame](https://github.com/mark-dev/chessfactory-hall-of-fame) by Mark-Dev.
 
+<a href="https://lichess.org/CW7va6EJ" target="_blank"><img src="exampleCastlemate.gif" width=400></a>
+
 ## Data
 Games are parsed using the [python chess](https://python-chess.readthedocs.io/en/latest/) library. My findings scanned over 17 million games on the [Lichess game database](https://database.lichess.org/). 
 
