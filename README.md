@@ -10,6 +10,7 @@ Unfortunately parsing games using the [python chess](https://python-chess.readth
 
 | Date                                                                                | Games       | Size         | Castle Checkmates  |
 |:------------------------------------------------------------------------------------|:------------|:-------------|:-------------------|
+| **More Games Coming Soon!**                                                         | -           | -            | -                  |
 | [2018 January](https://github.com/owenps/Castlemates/blob/main/results/2018-01.txt) | 17,945,784  | 38.27 GB     | 181                |
 
 ## Highest Rated Games
