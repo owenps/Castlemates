@@ -47,7 +47,7 @@ To execute the script `castlemates.py`, you will need to an associated .pgn file
 ```
 python castlemates.py example.pgn
 ```
-Optionally, you can set a batch parameter to output a progress message of what game is currently being analyzed. This can give you an idea of how fast the program is running and how many games remain. The following outputs a message every 500 games. 
+Optionally, you can set a batch parameter to output a progress message of what game is currently being analyzed. This can give you an idea of how fast the program is running and how many games have been processed. The following outputs a message every 500 games. 
 ```
 python castlemates.py example.pgn 500
 > Progress Update: Game #500
