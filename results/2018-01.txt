@@ -26,7 +26,6 @@ Castlemate Found! Game #907,337
 White Elo: 1754 | Black Elo: 1768 | URL: https://lichess.org/USiexs5A
 Castlemate Found! Game #975,761
 White Elo: 1440 | Black Elo: 1741 | URL: https://lichess.org/nNCVUCpQ
-Progress Update: Game #1,000,000
 Castlemate Found! Game #1,001,971
 White Elo: 825 | Black Elo: 1062 | URL: https://lichess.org/BNeLurkF
 Castlemate Found! Game #1,040,988
@@ -43,7 +42,6 @@ Castlemate Found! Game #1,853,191
 White Elo: 1886 | Black Elo: 1301 | URL: https://lichess.org/c0q676Xk
 Castlemate Found! Game #1,997,388
 White Elo: 1464 | Black Elo: 1214 | URL: https://lichess.org/PyoWqRAO
-Progress Update: Game #2,000,000
 Castlemate Found! Game #2,167,528
 White Elo: 1015 | Black Elo: 1009 | URL: https://lichess.org/woiecqCX
 Castlemate Found! Game #2,619,691
@@ -54,7 +52,6 @@ Castlemate Found! Game #2,876,840
 White Elo: 1055 | Black Elo: 984 | URL: https://lichess.org/ywe92S2k
 Castlemate Found! Game #2,955,086
 White Elo: 1977 | Black Elo: 1975 | URL: https://lichess.org/4zkcUb1w
-Progress Update: Game #3,000,000
 Castlemate Found! Game #3,009,406
 White Elo: 822 | Black Elo: 888 | URL: https://lichess.org/91SlWPVU
 Castlemate Found! Game #3,030,955
@@ -77,7 +74,6 @@ Castlemate Found! Game #3,761,049
 White Elo: 2071 | Black Elo: 2022 | URL: https://lichess.org/IUD2Dc5k
 Castlemate Found! Game #3,846,091
 White Elo: 1317 | Black Elo: 1354 | URL: https://lichess.org/2zDnrZFK
-Progress Update: Game #4,000,000
 Castlemate Found! Game #4,022,326
 White Elo: 2390 | Black Elo: 2224 | URL: https://lichess.org/TJJxBOME
 Castlemate Found! Game #4,023,525
@@ -100,7 +96,6 @@ Castlemate Found! Game #4,857,179
 White Elo: 1275 | Black Elo: 1265 | URL: https://lichess.org/QwzWDe0X
 Castlemate Found! Game #4,998,664
 White Elo: 1672 | Black Elo: 1485 | URL: https://lichess.org/W58M5JKg
-Progress Update: Game #5,000,000
 Castlemate Found! Game #5,073,528
 White Elo: 984 | Black Elo: 970 | URL: https://lichess.org/GVeRBae9
 Castlemate Found! Game #5,121,589
@@ -123,7 +118,6 @@ Castlemate Found! Game #5,857,466
 White Elo: 1582 | Black Elo: 1617 | URL: https://lichess.org/Df3ECnLK
 Castlemate Found! Game #5,997,301
 White Elo: 1909 | Black Elo: 1477 | URL: https://lichess.org/BypzgSLD
-Progress Update: Game #6,000,000
 Castlemate Found! Game #6,155,776
 White Elo: 1341 | Black Elo: 1333 | URL: https://lichess.org/lPPVDr5Z
 Castlemate Found! Game #6,214,157
@@ -144,7 +138,6 @@ Castlemate Found! Game #6,895,623
 White Elo: 1026 | Black Elo: 1141 | URL: https://lichess.org/DRHFwIvb
 Castlemate Found! Game #6,951,794
 White Elo: 1415 | Black Elo: 1407 | URL: https://lichess.org/VWB6NPWy
-Progress Update: Game #7,000,000
 Castlemate Found! Game #7,009,589
 White Elo: 1698 | Black Elo: 1642 | URL: https://lichess.org/gvb3cbtH
 Castlemate Found! Game #7,069,940
@@ -169,7 +162,6 @@ Castlemate Found! Game #7,915,873
 White Elo: 1889 | Black Elo: 1669 | URL: https://lichess.org/qvM34Hko
 Castlemate Found! Game #7,967,461
 White Elo: 2081 | Black Elo: 1662 | URL: https://lichess.org/d5wruO3x
-Progress Update: Game #8,000,000
 Castlemate Found! Game #8,129,737
 White Elo: 1333 | Black Elo: 1335 | URL: https://lichess.org/2xJ3ZT5m
 Castlemate Found! Game #8,157,866
@@ -194,7 +186,6 @@ Castlemate Found! Game #8,916,825
 White Elo: 1536 | Black Elo: 1512 | URL: https://lichess.org/jREcredf
 Castlemate Found! Game #8,998,549
 White Elo: 1552 | Black Elo: 1611 | URL: https://lichess.org/GpMO19N0
-Progress Update: Game #9,000,000
 Castlemate Found! Game #9,047,243
 White Elo: 1690 | Black Elo: 1500 | URL: https://lichess.org/26VasFPG
 Castlemate Found! Game #9,053,574
@@ -223,7 +214,6 @@ Castlemate Found! Game #9,772,041
 White Elo: 1111 | Black Elo: 1139 | URL: https://lichess.org/2GHYvSTC
 Castlemate Found! Game #9,936,459
 White Elo: 1215 | Black Elo: 1215 | URL: https://lichess.org/DnYsDVxv
-Progress Update: Game #10,000,000
 Castlemate Found! Game #10,000,165
 White Elo: 1929 | Black Elo: 1882 | URL: https://lichess.org/mG3vS0O9
 Castlemate Found! Game #10,133,372
@@ -232,7 +222,6 @@ Castlemate Found! Game #10,147,040
 White Elo: 1809 | Black Elo: 1745 | URL: https://lichess.org/mlKI1E89
 Castlemate Found! Game #10,775,092
 White Elo: 1229 | Black Elo: 1230 | URL: https://lichess.org/CKgXhwio
-Progress Update: Game #11,000,000
 Castlemate Found! Game #11,114,697
 White Elo: 1692 | Black Elo: 1662 | URL: https://lichess.org/TX30LSc3
 Castlemate Found! Game #11,247,405
@@ -245,7 +234,6 @@ Castlemate Found! Game #11,673,675
 White Elo: 1519 | Black Elo: 1500 | URL: https://lichess.org/K1bZkZhf
 Castlemate Found! Game #11,889,930
 White Elo: 1815 | Black Elo: 1537 | URL: https://lichess.org/gxKXKEKN
-Progress Update: Game #12,000,000
 Castlemate Found! Game #12,106,583
 White Elo: 1495 | Black Elo: 1510 | URL: https://lichess.org/p2wnwxTk
 Castlemate Found! Game #12,359,787
@@ -268,7 +256,6 @@ Castlemate Found! Game #12,723,193
 White Elo: 1135 | Black Elo: 1170 | URL: https://lichess.org/HtZzC4pY
 Castlemate Found! Game #12,979,402
 White Elo: 1005 | Black Elo: 1700 | URL: https://lichess.org/399lJ6gK
-Progress Update: Game #13,000,000
 Castlemate Found! Game #13,087,995
 White Elo: 1566 | Black Elo: 2031 | URL: https://lichess.org/HrLhVxik
 Castlemate Found! Game #13,119,820
@@ -279,7 +266,6 @@ Castlemate Found! Game #13,326,714
 White Elo: 2862 | Black Elo: 2248 | URL: https://lichess.org/qmq5jjLs
 Castlemate Found! Game #13,846,235
 White Elo: 1865 | Black Elo: 1728 | URL: https://lichess.org/OtBKrtAV
-Progress Update: Game #14,000,000
 Castlemate Found! Game #14,078,802
 White Elo: 966 | Black Elo: 1025 | URL: https://lichess.org/P8uXAQOR
 Castlemate Found! Game #14,186,266
@@ -304,7 +290,6 @@ Castlemate Found! Game #14,974,908
 White Elo: 1765 | Black Elo: 1618 | URL: https://lichess.org/m3Z2ULlF
 Castlemate Found! Game #14,989,795
 White Elo: 1754 | Black Elo: 2218 | URL: https://lichess.org/BNeqrkdx
-Progress Update: Game #15,000,000
 Castlemate Found! Game #15,187,410
 White Elo: 2214 | Black Elo: 2048 | URL: https://lichess.org/UbbXiVX2
 Castlemate Found! Game #15,262,555
@@ -329,7 +314,6 @@ Castlemate Found! Game #15,770,286
 White Elo: 1518 | Black Elo: 1502 | URL: https://lichess.org/MnDv7Yqr
 Castlemate Found! Game #15,840,594
 White Elo: 1753 | Black Elo: 1868 | URL: https://lichess.org/6dxSNXsm
-Progress Update: Game #16,000,000
 Castlemate Found! Game #16,111,416
 White Elo: 1644 | Black Elo: 1619 | URL: https://lichess.org/zkIrWyt8
 Castlemate Found! Game #16,144,565
@@ -350,7 +334,6 @@ Castlemate Found! Game #16,689,119
 White Elo: 1920 | Black Elo: 2053 | URL: https://lichess.org/obim1Lqy
 Castlemate Found! Game #16,810,990
 White Elo: 1297 | Black Elo: 1375 | URL: https://lichess.org/QJuYlr6K
-Progress Update: Game #17,000,000
 Castlemate Found! Game #17,086,165
 White Elo: 1674 | Black Elo: 1677 | URL: https://lichess.org/x0UaqPlg
 Castlemate Found! Game #17,151,072
