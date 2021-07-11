@@ -52,5 +52,7 @@ Optionally, you can set a batch parameter to output a progress message of what g
 python castlemates.py example.pgn 500
 > Progress Update: Game #500
 > Progress Update: Game #1,000
+> Castlemate Found! Game #1,054
+> White Elo: 1629 | Black Elo: 1535 | URL: https://lichess.org/eAUbNC1i
 ```
 This parameter by default is set to `1e6`. To disable the progress update messages, set the parameter to `0`.
