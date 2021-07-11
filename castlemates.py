@@ -1,5 +1,4 @@
 import sys
-import chess.pgn
 
 # Handling command arguments
 fn = ""
@@ -10,41 +9,42 @@ except IndexError:
     exit()
 
 if '.pgn' not in fn:
-    print('Parameter Error: the parameter '+sys.argv[1]+' is invalid. A .pgn file is expected')
+    print('Parameter Error: the parameter {} is invalid. A .pgn file is expected'.format(sys.argv[1]))
     exit()
 
-minElo = 0
+batch = 1e6
 try: 
-    minElo = int(sys.argv[2])
+    batch = int(sys.argv[2])
 except ValueError:
-    print("Invalid Parameter: The minimum Elo parameter must be a integer value")
+    print("Invalid Parameter: The batch parameter must be a integer value")
     exit()
 except IndexError: 
     pass
 
 # Parse pgn files
 pgn = open(fn)
-game = chess.pgn.read_game(pgn)
-castlemates = 0
-count = 1
-while game is not None:
-    if count % 1e6 == 0:
-        print('Progress Update: Game #'+str(count))
-    lastmove = None
-    try:
-        lastmove = game.end().san()
-    except AttributeError: # root node
-        pass
-    if lastmove == 'O-O#' or lastmove == 'O-O-O#': # Castle-mate found
-        wElo, bElo = game.headers['WhiteElo'], game.headers['BlackElo']
-        if (min(int(wElo),int(bElo)) >= minElo):
+game = castlemates = 0
+while True: 
+    line = pgn.readline()
+    if len(line) == 0: # eof
+        break
+    # Collect meta data from game
+    if line[0] == '1': # Game Moves
+        if 'O-O#' in line: # Castlemate found!
             castlemates += 1
-            print('Castlemate Found! Game #'+str(count))
-            print('White Elo: '+wElo+' | Black Elo: '+bElo+' | URL: '+game.headers['Site'])
-    game = chess.pgn.read_game(pgn)
-    count += 1
-print('-- Scan Complete --')
-print('In total there were '+str(castlemates)+' game(s) which ended in a castle-mate')
-    
+            print('Castlemate Found! Game #{:,}'.format(game))
+            print('White Elo: {} | Black Elo: {} | URL: {}'.format(wElo,bElo,site))
+    elif line[:2] == '[S': # Site tag
+        site = line[7:-3]
+    elif line[:3] == '[Ev': # New Game
+        game += 1
+        site = wElo = bElo = None # Reset metadata
+        if batch != 0 and game % batch == 0:
+            print('Progress Update: Game #{:,}'.format(game))
+    elif line[:7] == '[WhiteE': # WhiteElo tag 
+        wElo = line[11:-3]
+    elif line[:7] == '[BlackE': # BlackElo tag
+        bElo = line[11:-3]
 
-        
+pgn.close()
+print('-- Script Complete! --\nIn total there were {:,} game(s) from {} that ended in a castle-mate.'.format(castlemates,fn))
