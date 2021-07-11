@@ -26,7 +26,7 @@ pgn = open(fn)
 game = castlemates = 0
 while True: 
     line = pgn.readline()
-    if len(line) == 0: # eof
+    if not line: # eof
         break
     # Collect meta data from game
     if line[0] == '1': # Game Moves
