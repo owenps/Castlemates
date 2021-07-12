@@ -14,7 +14,7 @@ Unfortunately parsing games using the [python chess](https://python-chess.readth
 |:------------------------------------------------------------------------------------|:------------|:-------------|:-------------------|
 | **More Games Coming Soon!**                                                         | -           | -            | -                  |
 | [2021 June](https://github.com/owenps/Castlemates/blob/main/results/2021-06.txt)    | 92,190,803  | 206.53 GB    | 950                |
-| [2021 May](https://github.com/owenps/Castlemates/blob/main/results/2021-05.txt)     | 101,011,629 | 232.21 GB    | 950                |
+| [2021 May](https://github.com/owenps/Castlemates/blob/main/results/2021-05.txt)     | 101,011,629 | 232.21 GB    | 1,120             |
 | [2018 January](https://github.com/owenps/Castlemates/blob/main/results/2018-01.txt) | 17,945,784  | 38.27 GB     | 181                |
 
 ## Highest Rated Games
