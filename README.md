@@ -15,6 +15,7 @@ Unfortunately parsing games using the [python chess](https://python-chess.readth
 | **More Games Coming Soon!**                                                         | -           | -            | -                  |
 | [2021 June](https://github.com/owenps/Castlemates/blob/main/results/2021-06.txt)    | 92,190,803  | 206.53 GB    | 950                |
 | [2021 May](https://github.com/owenps/Castlemates/blob/main/results/2021-05.txt)     | 101,011,629 | 232.21 GB    | 1,120             |
+| [2021 Apirl](https://github.com/owenps/Castlemates/blob/main/results/2021-04.txt)     | 99,184,138 | 212.30 GB    | 1,096             |
 | [2018 January](https://github.com/owenps/Castlemates/blob/main/results/2018-01.txt) | 17,945,784  | 38.27 GB     | 181                |
 
 ## Highest Rated Games
@@ -26,26 +27,26 @@ Unfortunately parsing games using the [python chess](https://python-chess.readth
 | 3  | 2620      | 2534      | https://lichess.org/ymm4Bysd | <!-- 5154 -->
 | 4  | 2862      | 2248      | https://lichess.org/qmq5jjLs | <!-- 5110 -->
 | 5  | 2609      | 2491      | https://lichess.org/k72rG9AE | <!-- 5100 -->
-| 6  | 2514      | 2367      | https://lichess.org/7mOvUS5L | <!-- 4881 -->
-| 7  | 2363      | 2517      | https://lichess.org/c5KIcUCa | <!-- 4880 --> 
-| 8  | 2433      | 2422      | https://lichess.org/kVE2ra4W | <!-- 4855 -->
-| 9  | 2479      | 2326      | https://lichess.org/ZvlnHkhn | <!-- 4805 --> 
-| 10 | 2352      | 2447      | https://lichess.org/8aFwXeYF | <!-- 4799 -->
-| 11 | 2403      | 2379      | https://lichess.org/UwTxNNuz | <!-- 4782 -->
-| 12 | 2341      | 2431      | https://lichess.org/WhcAk9EO | <!-- 4772 --> 
-| 13 | 2383      | 2375      | https://lichess.org/hmc9VOHT | <!-- 4758 --> 
-| 14 | 2323      | 2431      | https://lichess.org/j4vAQo7Q | <!-- 4754 --> 
-| 15 | 2364      | 2384      | https://lichess.org/zT0ppPlZ | <!-- 4748 -->
-| 16 | 2351      | 2346      | https://lichess.org/NYofWmre | <!-- 4697 -->
-| 17 | 2352      | 2334      | https://lichess.org/mM7hrE10 | <!-- 4686 -->
-| 18 | 2272      | 2400      | https://lichess.org/ml7lk7mc | <!-- 4672 --> 
-| 19 | 2355      | 2304      | https://lichess.org/VCnhX6iV | <!-- 4659 -->
-| 20 | 2373      | 2273      | https://lichess.org/5gIqCeWe | <!-- 4646 -->
-| 21 | 2394      | 2240      | https://lichess.org/ngPK1tfl | <!-- 4634 -->
-| 22 | 2335      | 2294      | https://lichess.org/arTrZnep | <!-- 4629 -->
-| 23 | 2227      | 2393      | https://lichess.org/ghto7CJY | <!-- 4620 -->
-| 24 | 2390      | 2224      | https://lichess.org/TJJxBOME | <!-- 4614 -->
-| 25 | 2314      | 2296      | https://lichess.org/UUnM71YG | <!-- 4610 -->
+| 6  | 2555      | 2435      | https://lichess.org/DdUehQfh | <!-- 4990 -->
+| 7  | 2702      | 2216      | https://lichess.org/XYZzw71J | <!-- 4918 -->
+| 8  | 2514      | 2367      | https://lichess.org/7mOvUS5L | <!-- 4881 -->
+| 9  | 2363      | 2517      | https://lichess.org/c5KIcUCa | <!-- 4880 -->
+| 10 | 2411      | 2469      | https://lichess.org/iGBXYTk4 | <!-- 4880 --> 
+| 11 | 2433      | 2422      | https://lichess.org/kVE2ra4W | <!-- 4855 -->
+| 12 | 2375      | 2435      | https://lichess.org/FpZIl5Mb | <!-- 4810 -->
+| 13 | 2479      | 2326      | https://lichess.org/ZvlnHkhn | <!-- 4805 --> 
+| 14 | 2352      | 2447      | https://lichess.org/8aFwXeYF | <!-- 4799 -->
+| 15 | 2403      | 2379      | https://lichess.org/UwTxNNuz | <!-- 4782 -->
+| 16 | 2341      | 2431      | https://lichess.org/WhcAk9EO | <!-- 4772 --> 
+| 17 | 2383      | 2375      | https://lichess.org/hmc9VOHT | <!-- 4758 --> 
+| 18 | 2323      | 2431      | https://lichess.org/j4vAQo7Q | <!-- 4754 --> 
+| 19 | 2364      | 2384      | https://lichess.org/zT0ppPlZ | <!-- 4748 -->
+| 20 | 2351      | 2346      | https://lichess.org/NYofWmre | <!-- 4697 -->
+| 21 | 2352      | 2334      | https://lichess.org/mM7hrE10 | <!-- 4686 -->
+| 22 | 2272      | 2400      | https://lichess.org/ml7lk7mc | <!-- 4672 --> 
+| 23 | 2355      | 2304      | https://lichess.org/VCnhX6iV | <!-- 4659 -->
+| 24 | 2343      | 2314      | https://lichess.org/wyHVs5cJ | <!-- 4657 -->
+| 25 | 2373      | 2273      | https://lichess.org/5gIqCeWe | <!-- 4646 -->
 
 ## Executing The Script Yourself
 To execute the script `castlemates.py`, you will need to an associated .pgn file which will be passed in as a command line argument. 
