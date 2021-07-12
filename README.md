@@ -6,7 +6,7 @@ Castlemates is a python script which scrapes .pgn files for chess games ending i
 <a href="https://lichess.org/CW7va6EJ" target="_blank"><img src="exampleCastlemate.gif" width=300></a>
 
 ## Data
-Unfortunately parsing games using the [python chess](https://python-chess.readthedocs.io/en/latest/) library is quite slow. So `castlemates.py` contains a simplified-lightweight version designed specifically to find games which end in a castle checkmate. My findings scanned over 17 million games on the [Lichess game database](https://database.lichess.org/). Notable players include: [IM Vincent Rothuis](https://lichess.org/qmq5jjLs).
+Unfortunately parsing games using the [python chess](https://python-chess.readthedocs.io/en/latest/) library is quite slow. So `castlemates.py` contains a simplified-lightweight version designed specifically to find games which end in a castle checkmate. My findings scanned over 17 million games on the [Lichess game database](https://database.lichess.org/). Notable players include: [GM Elier Miranda](https://lichess.org/7mOvUS5L), [IM Vincent Rothuis](https://lichess.org/qmq5jjLs).
 
 | Date                                                                                | Games       | Size         | Castle Checkmates  |
 |:------------------------------------------------------------------------------------|:------------|:-------------|:-------------------|
