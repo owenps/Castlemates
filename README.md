@@ -70,3 +70,16 @@ python castlemates.py example.pgn 500
 > Progress Update: Game #1,000
 ```
 This parameter by default is set to `1e6`. To disable the progress update messages, set the parameter to `0`.
+
+## FAQ 
+Questions commonly pulled from [this](https://www.reddit.com/r/chess/comments/ojiy7p/top_25_rated_games_ending_in_a_checkmate_by/) reddit post. 
+> Doesn't the script only register kingside castling, `0-0`? 
+The code actually registers both king and queenside castling. The line I think people are referring to is
+
+`if 'O-O#' in line: # Castlemate found!`
+
+This will also capture queenside castling since 'O-O-O#' contains 'O-O#' as a substring!
+
+> Can you do another list with checkmates ending with en passant?
+
+You're in luck as one has already been done [here](https://github.com/mark-dev/chessfactory-hall-of-fame/blob/master/etc/docs/results/ep-mate.md)
