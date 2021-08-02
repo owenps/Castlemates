@@ -78,7 +78,7 @@ The code actually registers both king and queenside castling. The line I think p
 
 `if 'O-O#' in line: # Castlemate found!`
 
-This will also capture queenside castling since 'O-O-O#' contains 'O-O#' as a substring!
+This will also capture queenside castling since `O-O-O#` contains `O-O#` as a substring!
 
 > Can you do another list with checkmates ending with en passant?
 
