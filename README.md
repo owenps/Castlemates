@@ -74,6 +74,7 @@ This parameter by default is set to `1e6`. To disable the progress update messag
 ## FAQ 
 Questions commonly asked. Pulled from [this](https://www.reddit.com/r/chess/comments/ojiy7p/top_25_rated_games_ending_in_a_checkmate_by/) Reddit post on r/chess. 
 > Doesn't the script only register kingside castling, `0-0`? 
+
 The code actually registers both king and queenside castling. The line I think people are referring to is
 
 `if 'O-O#' in line: # Castlemate found!`
